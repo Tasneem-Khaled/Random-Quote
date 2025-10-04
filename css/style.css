@@ -1,0 +1,25 @@
+body {
+    font-family: "Playfair Display", serif;
+    background-color: #FAF7F2;
+    color: #424649;
+}
+
+h1 {
+    font-family: "Playwrite DE SAS", cursive;
+    font-size: 4rem;
+    color: #B13030;
+}
+
+.btn-dark {
+    --bs-btn-bg: #B13030;
+}
+
+.btn {
+    border: #B13030 solid .3125rem;
+}
+
+.btn:hover {
+    color: #424649;
+    background-color: transparent;
+    border-color: #B13030;
+}
